@@ -166,3 +166,4 @@ In addition, you also find a duplicated car entry for VIN `DAM41UDN3CHU2WVF6`. Y
 [MySQL Reference: DELETE Syntax](https://dev.mysql.com/doc/refman/8.0/en/delete.html)
 
 Happy coding!!
+cambio
